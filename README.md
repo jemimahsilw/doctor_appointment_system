@@ -1,7 +1,7 @@
 # hospital Appointment System
 
 ## overview
-This i a terminal based system highlighting the process of booking an appointment at a registered hospital by a patient  based on a convinient time and day. Thi helps reduce congestion at hospitals and offer satisfaction to both the patient and doctor since the appointment is set at their convinient time. 
+This is a terminal based system highlighting the process of booking an appointment at a registered hospital by a patient  based on a convinient time and day. This helps reduce congestion at hospitals and offer satisfaction to both the patient and doctor since the appointment is set at their convinient time. 
 
 ## Features
 - registration of user (doctor/patient)
